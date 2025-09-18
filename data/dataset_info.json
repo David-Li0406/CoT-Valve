@@ -1,0 +1,9 @@
+{
+    "MixChain-Z-PRM12K": {
+        "file_name": "MixChain-Z-PRM12K.json",
+        "columns": {
+            "prompt": "instruction",
+            "response": "output"
+        }
+    }
+}
